@@ -24,4 +24,4 @@ def main():
     app.run_polling()
 
 if __name__ == "__main__":
-    mai
+    main
